@@ -7,15 +7,21 @@ Conscient des avancées informatique récentes, l'INPI lance en 2018 son program
 
 Pour toute nouvelle demande de dépôt de brevet : 
 
-- Veuillez créer une nouvelle branche dans le repo brevets-inpi
-- Remplissez le formulaire CERFA 11354 relatif à la demande.
-- Assurez-vous d'avoir renseigné le code personnel INPI transmis lors de votre première inscription. Aucune demande incomplète ne sera traitée.
-- Veuillez commiter vos changements et ouvrir une Pull Request. Votre demande sera traitée dans les plus brefs délais.
+- Veuillez créer une nouvelle branche dans le repo présent `brevets-inpi`.
+Cette branche devra contenir le nom de votre équipe et le nom du projet que vous souhaitez breveter.
+
+- Remplissez le formulaire CERFA 11354 relatif à la demande et commiter le dès à présent.
+
+- Assurez-vous d'avoir renseigné le code personnel INPI transmis à votre institution. 
+Aucune demande incomplète ne sera traitée.
+
+- Une fois votre dossier complet, veuillez commiter vos changements à nouveau et ouvrir une Pull Request. 
+Votre demande sera traitée dans les plus brefs délais.
 
 ## Modalités de renouvellement des brevets
 
-(site en maintenance)
+- Remplissez le formulaire CERFA 11729.
 
 ## Modalités de retrait ou de renonciation de brevet
 
-(site en maintenance)
+- Remplissez le formulaire CERFA 17654.
