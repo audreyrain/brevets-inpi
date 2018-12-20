@@ -41,5 +41,5 @@ Domicile ou siège :
   - Ville : Paris
   - Pays : France
 
-Code personnel (transmis précedemment par l'INPI) : QUARZRONUF
+Code personnel (transmis précedemment par l'INPI) : 3743
 
